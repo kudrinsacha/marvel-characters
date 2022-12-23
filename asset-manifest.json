@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.0e340371.css",
+    "main.js": "/react-gh-pages/static/js/main.9c5dd05f.js",
+    "static/js/787.100a7847.chunk.js": "/react-gh-pages/static/js/787.100a7847.chunk.js",
+    "static/media/marvel-characters.jpg": "/react-gh-pages/static/media/marvel-characters.47147371347a873c70b2.jpg",
+    "static/media/plug-300x450.jpg": "/react-gh-pages/static/media/plug-300x450.fed39a1021a0a6326916.jpg",
+    "static/media/plug-168x252.jpg": "/react-gh-pages/static/media/plug-168x252.cd5142699f72036a1aa4.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.0e340371.css.map": "/react-gh-pages/static/css/main.0e340371.css.map",
+    "main.9c5dd05f.js.map": "/react-gh-pages/static/js/main.9c5dd05f.js.map",
+    "787.100a7847.chunk.js.map": "/react-gh-pages/static/js/787.100a7847.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e340371.css",
+    "static/js/main.9c5dd05f.js"
+  ]
+}
