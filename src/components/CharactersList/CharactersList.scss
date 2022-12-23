@@ -1,0 +1,41 @@
+.character-list-title{
+  color: #fff;
+  font-size: 26px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.character-list-characters{
+  display: flex;
+  flex-wrap: wrap;
+}
+.character-list-search{
+  margin-top: 15px;
+  position: relative;
+  width: 195px;
+  span{
+    position: absolute;
+    color: #fff;
+    right: 1px;
+    top: 4px;
+    cursor: pointer;
+  }
+}
+.character-list-loading{
+  height: calc(100vh - 120px);
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+}
+.character-list-not-found{
+  color: #fff;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 36px;
+  margin-top: 30vh;
+}
+.css-1x51dt5-MuiInputBase-input-MuiInput-input, .css-mnn31 { //style mui input
+  color: #fff!important;
+}
+.css-18lrjg1-MuiCircularProgress-root, .css-z01bqi{ // style mui loading circle
+  color: #e62429!important;
+}
